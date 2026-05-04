@@ -8,7 +8,7 @@ I am a highschool student with prfound interest in technology.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to learn more about it with my programming experience.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to learn more about this field which I believe I can succeed at with my programming experience.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
