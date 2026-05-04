@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a highschool student with prfound interest in technology.
+I am a highschool student with profound interest in technology.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
